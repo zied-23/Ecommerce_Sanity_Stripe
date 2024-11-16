@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## e-commerce 
 
-Following JS Mastery Course
+Following JS Mastery Course,
+
 First, run the development server:
 
 ```bash
